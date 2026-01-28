@@ -31,7 +31,7 @@ Traditional keyword-based legal search systems fail to capture the contextual me
 
 > Note: This dataset primarily contains case metadata. Full judgment texts will be incorporated in later stages for semantic search and RAG implementation.
 
-## Current Progress (Week 1)
+## Current Progress 
 
 - Project repository and folder structure created
 - Legal dataset collected and documented
